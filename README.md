@@ -10,5 +10,5 @@ This project demonstrates proficiency in using Git for version control. It cover
 
 ## Features
 
-- Login page
-- Dashboard page
+- HTML on branch2
+- HTML on beanch1
